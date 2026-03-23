@@ -106,7 +106,7 @@
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/Jobthomas10">
+  <a href="buymeacoffee.com/jobthomas">
     <img src="https://cdn.buymeacoffee.com/buttons//default-yellow.png" width="200"/>
   </a>
 </p>
